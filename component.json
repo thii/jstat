@@ -3,7 +3,7 @@
   "version" : "1.1.0",
   "description" : "Statistical Library for JavaScript",
   "homepage" : "http://github.com/jstat/jstat",
-  "main" : "./dist/jstat.js",
+  "main" : "jstat.component.js",
   "author" : {
     "name" : "Trevor Norris",
     "email" : "trev.norris@gmail.com",
@@ -17,5 +17,5 @@
     "type" : "git",
     "url" : "http://github.com/jstat/jstat.git"
   },
-  "scripts" : ["./dist/jstat.js"]
+  "scripts" : ["jstat.component.js"]
 }
